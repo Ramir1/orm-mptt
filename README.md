@@ -1,4 +1,4 @@
-# This is the stable branch for Kohana 3.1 and is no longer maintained!!!
+Этот форк обновлен для Кохана 3.3
 
 # MPTT Library, extends ORM
 
