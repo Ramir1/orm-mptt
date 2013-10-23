@@ -1,4 +1,4 @@
-Этот форк обновлен для Кохана 3.3
+Форк для Кохана 3.3
 
 # MPTT Library, extends ORM
 
@@ -29,3 +29,4 @@ Place module in /modules/ and include the call in your bootstrap.
 	$cat->insert_as_last_child($c1);
 
 
+http://fo.com.ua
